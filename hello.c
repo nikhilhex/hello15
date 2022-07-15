@@ -1,6 +1,4 @@
-/*
-Language 1: C
-*/
+// Language 1: C
 
 
 #include <stdio.h>
