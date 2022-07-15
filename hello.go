@@ -1,3 +1,5 @@
+// Language 4: Go
+
 package main
 
 import "fmt"
