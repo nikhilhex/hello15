@@ -1,3 +1,5 @@
+// Language 2: C++
+
 #include <iostream>
 
 using namespace std;
